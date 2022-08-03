@@ -1,12 +1,16 @@
 ![Greetings, I'm Angelino](./images/banner.png)
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angelino.pires)&nbsp;&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelinopires/)
-
-</div>
+<p align="right">
+    <a href="https://www.instagram.com/angelino.pires" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/angelinopires/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:lino.pires@live.com" target="_blank">
+        <img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
 ---
 
@@ -21,15 +25,20 @@
 ---
 
 ## Know me better
-[![What I'm listening](https://spotify-recently-played-readme.vercel.app/api?user=angelinoj&count=3)](https://open.spotify.com/user/angelinoj)
+<p align="center">
+    <a href="https://open.spotify.com/user/angelinoj" target="_blank">
+        <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=angelinoj&count=3"/>
+    </a>
+</p>
 
 ## Stats
-[![Languages that I work with](https://github-readme-stats.vercel.app/api/top-langs/?username=angelinopires&hide=java&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img alt="Profile views" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinopires&hide=java&layout=compact&theme=radical">
+</p>
+<p align="center">
+    <img alt="Profile views" src="https://github-readme-stats.vercel.app/api?username=angelinopires&count_private=true&show_icons=true&theme=radical">
+</p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinopires&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: flex; justify-content: flex-end">
-
-![Profile views](https://komarev.com/ghpvc/?username=angelinopires&color=green)
-
-</div>
+<p align="right">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=angelinopires&color=green">
+</p>
