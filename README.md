@@ -12,8 +12,8 @@
 ---
 
 ## Bio
-- 🏢 Currently working at **Turing** as Senior Software Engineer
-- ⚙️ Daily use: `.html`, `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`
+- 🏢 Currently working at **Avenue Code** as Senior Software Engineer
+- ⚙️ Daily use: `.html`, `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`, `.go`
 - 🤝 I like meetups
 - 🖼️ My true passion is to create and learn new stuff
 - 🏆 Fun fact: I'm reasonably competitive at games
